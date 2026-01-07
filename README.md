@@ -1,3 +1,4 @@
+![logo](https://github.com/syedddsamadd-hub/syedddsamadd-hub/blob/main/README.md)
 <h1 align="center">Hi 👋, I'm AbdulSamad</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
